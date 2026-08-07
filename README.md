@@ -4,21 +4,21 @@
 
 Hi, I'm Matheus, a 15-year-old high school student aspiring to become a backend developer. I am currently studying Python while organizing my knowledge in Obsidian, building automations, and integrating AI agents (Hermes-Agent).
 
-I have a deep interest in Linux, automation, software architecture, and infrastructure. I always strive to understand the core concepts and inner workings of the technologies I study, valuing in-depth explanations that cover reasons, trade-offs, and best practices. Currently, I'm focused on Object-Oriented Programming (OOP) to refactor my Python projects, as well as learning Java basics, which I will be making public soon.
+I have a deep interest in Linux, automation, software architecture, and infrastructure. I always strive to understand the core concepts and inner workings of the technologies I study, valuing in-depth explanations that cover reasons, trade-offs, and best practices. Currently, I'm focused on Object-Oriented Programming (OOP) to refactor my Python projects, as well as learning Java. I am actively working on refining and documenting several of my private repositories to publish them publicly soon.
 
 <p align="left">
     <a href="https://github.com/yolcth">
         <img
             alt="GitHub followers"
             title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&v=2"
+            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&v=3"
         />
     </a>
     <a href="https://github.com/yolcth">
         <img
             alt="Total stars"
             title="GitHub total stars"
-            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&v=2"
+            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&v=3"
         />
     </a>
 </p>

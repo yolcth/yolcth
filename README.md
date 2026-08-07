@@ -1,29 +1,31 @@
 # ☕ Matheus Lacerda
 
-**`Aspirante a Desenvolvedor Backend`**
+**`Aspiring Backend Developer`**
 
-Me chamo Matheus, tenho 15 anos e sou estudante do 1° ano do Ensino Médio. Aspiro me tornar um desenvolvedor backend e atualmente estou estudando Python, enquanto organizo meus conhecimentos no Obsidian, fazendo automações e conectando com Inteligência Artificial (Hermes-Agent). Tenho profundo interesse em Linux, automações, arquitetura de software e infraestrutura. Busco entender conceitos e funcionamento interno das tecnologias que estudo, valorizando explicações profundas que abordem motivos, trade-offs e boas práticas. Atualmente, estou focado em aprender Programação Orientada a Objetos (OOP) para refatorar alguns projetos em Python, e aprendendo o básico de Java, e logo coloca-los em público.
+Hi, I'm Matheus, a 15-year-old high school student aspiring to become a backend developer. I am currently studying Python while organizing my knowledge in Obsidian, building automations, and integrating AI agents (Hermes-Agent).
+
+I have a deep interest in Linux, automation, software architecture, and infrastructure. I always strive to understand the core concepts and inner workings of the technologies I study, valuing in-depth explanations that cover reasons, trade-offs, and best practices. Currently, I'm focused on Object-Oriented Programming (OOP) to refactor my Python projects, as well as learning Java basics, which I will be making public soon.
 
 <p align="left">
     <a href="https://github.com/yolcth">
         <img
             alt="GitHub followers"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
     <a href="https://github.com/yolcth">
         <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total stars"
+            title="GitHub total stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <p align="left">
     <img
@@ -65,18 +67,18 @@ Me chamo Matheus, tenho 15 anos e sou estudante do 1° ano do Ensino Médio. Asp
 
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="left">
   <img
-    alt="GitHub Stats"
+    alt="GitHub Streak"
     height="180"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=yolcth&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://streak-stats.demolab.com?user=yolcth&theme=tokyonight&locale=en"
   />
   <img
-      alt="Top Langs"
+      alt="Activity Graph"
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yolcth&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yolcth&theme=tokyo-night&bg_color=1a1b27&hide_border=true"
   />
 </p>

@@ -11,14 +11,14 @@ I have a deep interest in Linux, automation, software architecture, and infrastr
         <img
             alt="GitHub followers"
             title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&v=1"
         />
     </a>
     <a href="https://github.com/yolcth">
         <img
             alt="Total stars"
             title="GitHub total stars"
-            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&v=1"
         />
     </a>
 </p>
@@ -74,11 +74,11 @@ I have a deep interest in Linux, automation, software architecture, and infrastr
     alt="GitHub Streak"
     height="180"
     style="padding-right: 10px;"
-    src="https://streak-stats.demolab.com?user=yolcth&theme=tokyonight&locale=en"
+    src="https://streak-stats.demolab.com?user=yolcth&theme=tokyonight&locale=en&v=1"
   />
   <img
       alt="Activity Graph"
       height="180"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=yolcth&theme=tokyo-night&bg_color=1a1b27&hide_border=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yolcth&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=1"
   />
 </p>

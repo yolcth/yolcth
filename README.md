@@ -11,14 +11,14 @@ I have a deep interest in Linux, automation, software architecture, and infrastr
         <img
             alt="GitHub followers"
             title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&v=7"
+            src="https://custom-icon-badges.demolab.com/github/followers/yolcth?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white&v=8"
         />
     </a>
     <a href="https://github.com/yolcth">
         <img
             alt="Total stars"
             title="GitHub total stars"
-            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&v=7"
+            src="https://custom-icon-badges.demolab.com/github/stars/yolcth?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars&v=8"
         />
     </a>
 </p>

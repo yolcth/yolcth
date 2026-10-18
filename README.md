@@ -68,7 +68,8 @@ I have a deep interest in Linux, automation, software architecture, and infrastr
 <br/>
 
 ### 📊 Statistics
-
 | | |
 |:---|:---|
-| <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=yolcth&theme=tokyonight&locale=en&v=1" /> | <img alt="Activity Graph" height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=yolcth&theme=tokyo-night&bg_color=1a1b27&hide_border=true&v=1" /> |
+| <img alt="GitHub Streak" height="180" src="https://streak-stats.demolab.com?user=yolcth&theme=tokyonight&locale=en&v=1" /> | <img alt="Activity Graph" height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=yolcth&theme=tokyo-night&hide_border=true" /> |
+
+
